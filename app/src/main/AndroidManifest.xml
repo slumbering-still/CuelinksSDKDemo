@@ -21,7 +21,7 @@
 
         <meta-data
             android:name="com.cuelinks.channelId"
-            android:value="123456" />
+            android:value="54358" />
         <meta-data
             android:name="com.cuelinks.subId"
             android:value="campaign test, source, abc, xyz, qwerty" />
